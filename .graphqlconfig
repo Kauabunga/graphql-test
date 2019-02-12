@@ -1,0 +1,1 @@
+{"projects":{"graphqltest":{"schemaPath":"schema.graphql","extensions":{"endpoints":{"default":"https://graphql-test-api.herokuapp.com/graphql"}}}}}
