@@ -18,4 +18,6 @@ app.get("/graphql-example", (req, res) =>
   )
 );
 
+app.get("/", (req, res) => res.redirect("/graphql"));
+
 app.listen(process.env.PORT || 4000);
